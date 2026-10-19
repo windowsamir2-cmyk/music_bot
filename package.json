@@ -1,0 +1,7 @@
+{
+  "name": "music-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "grammy": "^1.30.0"
+  }
+}
